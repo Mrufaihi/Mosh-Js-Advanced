@@ -42,6 +42,7 @@ function StopWatch() {
 }
 
 const sw = new StopWatch();
+//TODO: WE CANNOT EXCUTE HERE | the envirnoment here doesnt allow delay unless specified//
 // console.log(sw.startTimer()) //WE CANNOT EXCUTE HERE | the envirnoment here doesnt allow delay unless specified//
 // console.log(sw.stopTimer())
 // console.log(sw.duration())

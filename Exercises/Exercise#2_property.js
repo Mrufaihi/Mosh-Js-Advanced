@@ -68,10 +68,3 @@ StopWatch.prototype.reset = function () {
 }
 
 const sw = new StopWatch();
-
-// ---------------------------------------- //
-//TODO: WE CANNOT EXCUTE HERE | the envirnoment here doesnt allow delay unless specified//
-// console.log(sw.startTimer()) 
-// console.log(sw.stopTimer())
-// console.log(sw.duration())
-
