@@ -18,8 +18,8 @@ HtmlElement.prototype.focus = function () {
 const e = new HtmlElement();
 
 // we want to add inheritence from  HtmlElement 'Instance' into this constructor 
-function HtmlSelectElement() {
-    this.items = [];
+function HtmlSelectElement(items = []) { //items default = []
+    this.items = items;
 
     this.addItem = function (item) {
         this.items.push(item)
