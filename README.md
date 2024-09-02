@@ -1,3 +1,3 @@
 # 🚀 Read me!
 
-This Repo covers the journey of my JavaScript learning (Advanced Concepts). 
+This Repo covers the Mastering of JavaScript Journey  (Advanced Concepts). 
